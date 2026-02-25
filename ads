@@ -1,3 +1,5 @@
+#version: 2026-02-25
+#url=https://raw.githubusercontent.com/cracksecu/pihole/master/ads
 static.media.net
 media.net
 adservetx.media.net
