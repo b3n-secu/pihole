@@ -1,8 +1,8 @@
 #######################################################
 ##CrackSecu-List
-##
+#version: 20260225
+#url=https://raw.githubusercontent.com/cracksecu/pihole/master/list
 #######################################################
-##
 anime-planet.com
 ateamid.com
 fandom.com
@@ -240,4 +240,5 @@ secure-eu.nmrodam.com
 
 
 ######################################
+
 
