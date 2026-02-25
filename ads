@@ -1,76 +1,75 @@
-0.0.0.0 www.static.media.net
-0.0.0.0 www.media.net
-0.0.0.0 www.adservetx.media.net
-0.0.0.0 www.doubleclick.net/
-0.0.0.0 www.ad.doubleclick.net/
-0.0.0.0 www.static.doubleclick.net
-0.0.0.0 www.m.doubleclick.net
-0.0.0.0 www.mediavisor.doubleclick.net
-0.0.0.0 www.media.fastclick.net/
-0.0.0.0 www.analyticsengine.s3.amazonaws.com
-0.0.0.0 www.affiliationjs.s3.amazonaws.com
-0.0.0.0 www.advertising-api-eu.amazon.com
-0.0.0.0 www.amazonclix.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 www.ssl.google-analytics.com
-0.0.0.0 www.hotjar.com
-0.0.0.0 www.static.hotjar.com
-0.0.0.0 www.a.mouseflow.com
-0.0.0.0 www.freshmarketer.com/
-0.0.0.0 www.cdn.luckyorange.com
-0.0.0.0 www.w1.luckyorange.com
-0.0.0.0 www.stats.wp.com
-0.0.0.0 www.api.bugsnag.com
-0.0.0.0 www.app.bugsnag.com
-0.0.0.0 www.browser.sentry-cdn.com
-0.0.0.0 www.app.getsentry.com
-0.0.0.0 www.advertising.twitter.com
-0.0.0.0 www.analytics.pointdrive.linkedin.com
-0.0.0.0 www.widgets.pinterest.com
-0.0.0.0 www.d.reddit.com
-0.0.0.0 www.samsungads.com
-0.0.0.0 www.samsung-com.112.2o7.net
-0.0.0.0 www.metrics.icloud.com
+www.static.media.net
+www.media.net
+www.adservetx.media.net
+www.doubleclick.net/
+www.ad.doubleclick.net/
+www.static.doubleclick.net
+www.m.doubleclick.net
+www.mediavisor.doubleclick.net
+www.media.fastclick.net/
+www.analyticsengine.s3.amazonaws.com
+www.affiliationjs.s3.amazonaws.com
+www.advertising-api-eu.amazon.com
+www.amazonclix.com
+www.google-analytics.com
+www.ssl.google-analytics.com
+www.hotjar.com
+www.static.hotjar.com
+www.a.mouseflow.com
+www.freshmarketer.com/
+www.cdn.luckyorange.com
+www.w1.luckyorange.com
+www.stats.wp.com
+www.api.bugsnag.com
+www.app.bugsnag.com
+www.browser.sentry-cdn.com
+www.app.getsentry.com
+www.advertising.twitter.com
+www.analytics.pointdrive.linkedin.com
+www.widgets.pinterest.com
+www.d.reddit.com
+www.samsungads.com
+www.samsung-com.112.2o7.net
+www.metrics.icloud.com
 
-0.0.0.0 static.media.net
-0.0.0.0 media.net
-0.0.0.0 adservetx.media.net
-0.0.0.0 doubleclick.net/
-0.0.0.0 ad.doubleclick.net/
-0.0.0.0 static.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 mediavisor.doubleclick.net
-0.0.0.0 media.fastclick.net/
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 amazonclix.com
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 hotjar.com
-0.0.0.0 static.hotjar.com
-0.0.0.0 a.mouseflow.com
-0.0.0.0 freshmarketer.com/
-0.0.0.0 cdn.luckyorange.com
-0.0.0.0 w1.luckyorange.com
-0.0.0.0 stats.wp.com
-0.0.0.0 api.bugsnag.com
-0.0.0.0 app.bugsnag.com
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 app.getsentry.com
-0.0.0.0 advertising.twitter.com
-0.0.0.0 analytics.pointdrive.linkedin.com
-0.0.0.0 widgets.pinterest.com
-0.0.0.0 d.reddit.com
-0.0.0.0 samsungads.com
-0.0.0.0 samsung-com.112.2o7.net
-0.0.0.0 metrics.icloud.com
-0.0.0.0 amazonaax.com
-0.0.0.0 amazonclix.com
-0.0.0.0 freshmarketer.com
-0.0.0.0 stats.wp.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.india.xiaomi.com
-0.0.0.0 data.mistat.rus.xiaomi.com
-0.0.0.0 metrics5.data.hicloud.com 
-0.0.0.0 
+static.media.net
+media.net
+adservetx.media.net
+doubleclick.net/
+ad.doubleclick.net/
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+media.fastclick.net/
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonclix.com
+google-analytics.com
+ssl.google-analytics.com
+hotjar.com
+static.hotjar.com
+a.mouseflow.com
+freshmarketer.com/
+cdn.luckyorange.com
+w1.luckyorange.com
+stats.wp.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+advertising.twitter.com
+analytics.pointdrive.linkedin.com
+widgets.pinterest.com
+d.reddit.com
+samsungads.com
+samsung-com.112.2o7.net
+metrics.icloud.com
+amazonaax.com
+amazonclix.com
+freshmarketer.com
+stats.wp.com
+data.mistat.intl.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+metrics5.data.hicloud.com 
