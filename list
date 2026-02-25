@@ -1,86 +1,47 @@
 #######################################################
-## CrackSecu - List
+##CrackSecu-List
 ##
 #######################################################
 ##
-0.0.0.0 www.anime-planet.com
-0.0.0.0 www.ateamid.com
-0.0.0.0 www.fandom.com
-0.0.0.0 www.inflationbreedinghoax.com
-0.0.0.0 www.sh.st
-0.0.0.0 www.proxer.me
-0.0.0.0 www.myanimelist.net
-0.0.0.0 www.chessmoba.us
-0.0.0.0 www.mostraveller.com
-0.0.0.0 www.miniclip.com
-0.0.0.0 www.ttnrd.com
-0.0.0.0 www.mdsyzz.info
-0.0.0.0 www.flirt.com
-0.0.0.0 www.1stkissmanga.com
-0.0.0.0 www.1stkmg.com
-0.0.0.0 www.gkgojxjucutvnt.com
-0.0.0.0 www.hbtzzlcxfijk.com
-0.0.0.0 www.manhuascan.com
-0.0.0.0 www.gamepix.com
-0.0.0.0 www.tubia.com
-0.0.0.0 www.gamepix.com
-0.0.0.0 www.tubia.com
-0.0.0.0 www.animemotivation.com
-0.0.0.0 www.me.me
-0.0.0.0 www.wpad.
-0.0.0.0 www.animeepisode.com
-0.0.0.0 www.thegamer.com
-0.0.0.0 www.wakanim.tv
-0.0.0.0 www.archiveofourown.org
-0.0.0.0 www.quotev.com
-0.0.0.0 www.archiveofourown.com
-0.0.0.0 www.fandom.com
-0.0.0.0 www.mrguider.org
-0.0.0.0 www.mangadex.org
-0.0.0.0 www.asurascans.com
-0.0.0.0 www.mangago.me
-0.0.0.0 www.batotoo.com
-0.0.0.0 www.animemark.com
-0.0.0.0 www.baidu.com
-0.0.0.0 anime-planet.com
-0.0.0.0 ateamid.com
-0.0.0.0 fandom.com
-0.0.0.0 inflationbreedinghoax.com
-0.0.0.0 sh.st
-0.0.0.0 proxer.me
-0.0.0.0 myanimelist.net
-0.0.0.0 chessmoba.us
-0.0.0.0 mostraveller.com
-0.0.0.0 miniclip.com
-0.0.0.0 ttnrd.com
-0.0.0.0 mdsyzz.info
-0.0.0.0 flirt.com
-0.0.0.0 1stkissmanga.com
-0.0.0.0 1stkmg.com
-0.0.0.0 gkgojxjucutvnt.com
-0.0.0.0 hbtzzlcxfijk.com
-0.0.0.0 manhuascan.com
-0.0.0.0 gamepix.com
-0.0.0.0 tubia.com
-0.0.0.0 gamepix.com
-0.0.0.0 tubia.com
-0.0.0.0 animemotivation.com
-0.0.0.0 me.me
-0.0.0.0 wpad.
-0.0.0.0 animeepisode.com
-0.0.0.0 thegamer.com
-0.0.0.0 wakanim.tv
-0.0.0.0 archiveofourown.org
-0.0.0.0 quotev.com
-0.0.0.0 archiveofourown.com
-0.0.0.0 fandom.com
-0.0.0.0 mrguider.org
-0.0.0.0 mangadex.org
-0.0.0.0 asurascans.com
-0.0.0.0 mangago.me
-0.0.0.0 batotoo.com
-0.0.0.0 animemark.com
-0.0.0.0 baidu.com
+www.anime-planet.com
+www.ateamid.com
+www.fandom.com
+www.inflationbreedinghoax.com
+www.sh.st
+www.proxer.me
+www.myanimelist.net
+www.chessmoba.us
+www.mostraveller.com
+www.miniclip.com
+www.ttnrd.com
+www.mdsyzz.info
+www.flirt.com
+www.1stkissmanga.com
+www.1stkmg.com
+www.gkgojxjucutvnt.com
+www.hbtzzlcxfijk.com
+www.manhuascan.com
+www.gamepix.com
+www.tubia.com
+www.gamepix.com
+www.tubia.com
+www.animemotivation.com
+www.me.me
+www.wpad.
+www.animeepisode.com
+www.thegamer.com
+www.wakanim.tv
+www.archiveofourown.org
+www.quotev.com
+www.archiveofourown.com
+www.fandom.com
+www.mrguider.org
+www.mangadex.org
+www.asurascans.com
+www.mangago.me
+www.batotoo.com
+www.animemark.com
+www.baidu.com
 anime-planet.com
 ateamid.com
 fandom.com
@@ -120,125 +81,162 @@ mangago.me
 batotoo.com
 animemark.com
 baidu.com
-0.0.0.0 youporn.com
-0.0.0.0 www.youporn.com
-0.0.0.0 kbhgames.com
-0.0.0.0 kbhgames.com
-0.0.0.0 img.kbhgames.com
-0.0.0.0 img.koreatimes.co.kr
-0.0.0.0 1stkissmanga.io
-0.0.0.0 mangabuddy.com
-0.0.0.0 dramacool.ac
-0.0.0.0 images.crazygames.com
-0.0.0.0 workers.crazygames.com
-0.0.0.0 builds.crazygames.com
-0.0.0.0 videos.crazygames.com
-0.0.0.0 rafvertizing.crazygames.com
-0.0.0.0 files.crazygames.com
-0.0.0.0 www.crazygames.com
-0.0.0.0 gameframe.crazygames.com
-0.0.0.0 2048.ninja
-0.0.0.0 zinmanga.com
-0.0.0.0 zinmanhwa.com
-0.0.0.0 www.topmanhua.com
-0.0.0.0 topmanhua.com
-0.0.0.0 act.hoyoverse.com
-0.0.0.0 webapi-os.account.hoyoverse.com
-0.0.0.0 sg-hk4e-api.hoyoverse.com
-0.0.0.0 webstatic.hoyoverse.com
-0.0.0.0 nonograms-katana.com
-0.0.0.0 manhwachill.com
-0.0.0.0 hole-io.com
-0.0.0.0 kevin.games
-0.0.0.0 tetris.com
-0.0.0.0 iogames.onl
-0.0.0.0 t.poki.io
-0.0.0.0 poki.com
-0.0.0.0 a.poki.com
-0.0.0.0 gamewith.net
-0.0.0.0 img.gamewith.net
-0.0.0.0 www. youporn.com
-0.0.0.0 www.www.youporn.com
-0.0.0.0 www.kbhgames.com
-0.0.0.0 www.kbhgames.com
-0.0.0.0 www.img.kbhgames.com
-0.0.0.0 www.img.koreatimes.co.kr
-0.0.0.0 www.1stkissmanga.io
-0.0.0.0 www.mangabuddy.com
-0.0.0.0 www.dramacool.ac
-0.0.0.0 www.images.crazygames.com
-0.0.0.0 www.workers.crazygames.com
-0.0.0.0 www.builds.crazygames.com
-0.0.0.0 www.videos.crazygames.com
-0.0.0.0 www.rafvertizing.crazygames.com
-0.0.0.0 www.files.crazygames.com
-0.0.0.0 www.www.crazygames.com
-0.0.0.0 www.gameframe.crazygames.com
-0.0.0.0 www.2048.ninja
-0.0.0.0 www.zinmanga.com
-0.0.0.0 www.zinmanhwa.com
-0.0.0.0 www.www.topmanhua.com
-0.0.0.0 www.topmanhua.com
-0.0.0.0 www.act.hoyoverse.com
-0.0.0.0 www.webapi-os.account.hoyoverse.com
-0.0.0.0 www.sg-hk4e-api.hoyoverse.com
-0.0.0.0 www.webstatic.hoyoverse.com
-0.0.0.0 www.nonograms-katana.com
-0.0.0.0 www.manhwachill.com
-0.0.0.0 www.hole-io.com
-0.0.0.0 www.kevin.games
-0.0.0.0 www.tetris.com
-0.0.0.0 www.iogames.onl
-0.0.0.0 www.t.poki.io
-0.0.0.0 www.poki.com
-0.0.0.0 www.a.poki.com
-0.0.0.0 www.gamewith.net
-0.0.0.0 www.img.gamewith.net
+anime-planet.com
+ateamid.com
+fandom.com
+inflationbreedinghoax.com
+sh.st
+proxer.me
+myanimelist.net
+chessmoba.us
+mostraveller.com
+miniclip.com
+ttnrd.com
+mdsyzz.info
+flirt.com
+1stkissmanga.com
+1stkmg.com
+gkgojxjucutvnt.com
+hbtzzlcxfijk.com
+manhuascan.com
+gamepix.com
+tubia.com
+gamepix.com
+tubia.com
+animemotivation.com
+me.me
+wpad.
+animeepisode.com
+thegamer.com
+wakanim.tv
+archiveofourown.org
+quotev.com
+archiveofourown.com
+fandom.com
+mrguider.org
+mangadex.org
+asurascans.com
+mangago.me
+batotoo.com
+animemark.com
+baidu.com
+youporn.com
+www.youporn.com
+kbhgames.com
+kbhgames.com
+img.kbhgames.com
+img.koreatimes.co.kr
+1stkissmanga.io
+mangabuddy.com
+dramacool.ac
+images.crazygames.com
+workers.crazygames.com
+builds.crazygames.com
+videos.crazygames.com
+rafvertizing.crazygames.com
+files.crazygames.com
+www.crazygames.com
+gameframe.crazygames.com
+2048.ninja
+zinmanga.com
+zinmanhwa.com
+www.topmanhua.com
+topmanhua.com
+act.hoyoverse.com
+webapi-os.account.hoyoverse.com
+sg-hk4e-api.hoyoverse.com
+webstatic.hoyoverse.com
+nonograms-katana.com
+manhwachill.com
+hole-io.com
+kevin.games
+tetris.com
+iogames.onl
+t.poki.io
+poki.com
+a.poki.com
+gamewith.net
+img.gamewith.net
+www.youporn.com
+www.www.youporn.com
+www.kbhgames.com
+www.kbhgames.com
+www.img.kbhgames.com
+www.img.koreatimes.co.kr
+www.1stkissmanga.io
+www.mangabuddy.com
+www.dramacool.ac
+www.images.crazygames.com
+www.workers.crazygames.com
+www.builds.crazygames.com
+www.videos.crazygames.com
+www.rafvertizing.crazygames.com
+www.files.crazygames.com
+www.www.crazygames.com
+www.gameframe.crazygames.com
+www.2048.ninja
+www.zinmanga.com
+www.zinmanhwa.com
+www.www.topmanhua.com
+www.topmanhua.com
+www.act.hoyoverse.com
+www.webapi-os.account.hoyoverse.com
+www.sg-hk4e-api.hoyoverse.com
+www.webstatic.hoyoverse.com
+www.nonograms-katana.com
+www.manhwachill.com
+www.hole-io.com
+www.kevin.games
+www.tetris.com
+www.iogames.onl
+www.t.poki.io
+www.poki.com
+www.a.poki.com
+www.gamewith.net
+www.img.gamewith.net
 
-## ARD
-0.0.0.0 firebaseinstallations.googleapis.com (Google)
-0.0.0.0 de-config-preproduction.sensic.net (GfK SE: Tracking/Nutzeranalyse)
-0.0.0.0 firebase-settings.crashlytics.com (Google: Absturzberichte)
-0.0.0.0 app.adjust.com (Adjust GmbH: Tracking/Nutzeranalyse)
-0.0.0.0 api.ardmediathek.de (ARD)
-0.0.0.0 cdn-gl.imrworldwide.com (Nielsen Company LLC: Tracking/Nutzeranalyse)
-0.0.0.0 image.ard.de
-0.0.0.0 images.ardmediathek.de
-0.0.0.0 config.ioam.de 
-0.0.0.0 secure-eu.nmrodam.com
+##ARD
+firebaseinstallations.googleapis.com(Google)
+de-config-preproduction.sensic.net(GfKSE:Tracking/Nutzeranalyse)
+firebase-settings.crashlytics.com(Google:Absturzberichte)
+app.adjust.com(AdjustGmbH:Tracking/Nutzeranalyse)
+api.ardmediathek.de(ARD)
+cdn-gl.imrworldwide.com(NielsenCompanyLLC:Tracking/Nutzeranalyse)
+image.ard.de
+images.ardmediathek.de
+config.ioam.de
+secure-eu.nmrodam.com
 
-## Tagesschau
-0.0.0.0 config.ioam.de
-0.0.0.0 cdn-gl.imrworldwide.com
-0.0.0.0 android.clients.google.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 app-measurement.com
-0.0.0.0 secure-eu.nmrodam.com
+##Tagesschau
+config.ioam.de
+cdn-gl.imrworldwide.com
+android.clients.google.com
+firebaseremoteconfig.googleapis.com
+app-measurement.com
+secure-eu.nmrodam.com
 
-## ZDF
-0.0.0.0 firebaseinstallations.googleapis.com
-0.0.0.0 mobile-data.onetrust.io
-0.0.0.0 android.clients.google.com
-0.0.0.0 config.ioam.de
-0.0.0.0 cdn-gl.imrworldwide.com
-0.0.0.0 secure-eu.nmrodam.com
-0.0.0.0 logs1407.xiti.com
+##ZDF
+firebaseinstallations.googleapis.com
+mobile-data.onetrust.io
+android.clients.google.com
+config.ioam.de
+cdn-gl.imrworldwide.com
+secure-eu.nmrodam.com
+logs1407.xiti.com
 
-## ZDF Media
+##ZDFMedia
 
-0.0.0.0 firebaseinstallations.googleapis.com
-0.0.0.0 mobile-data.onetrust.io
-0.0.0.0 zdf-cdn.live.cellular.de
-0.0.0.0 api-settings.zdf.de
-0.0.0.0 cdn-gl.imrworldwide.com
-0.0.0.0 abgroup.zdf.de
-0.0.0.0 android.clients.google.com
-0.0.0.0 api.zdf.de
-0.0.0.0 secure-eu.nmrodam.com
-
-
+firebaseinstallations.googleapis.com
+mobile-data.onetrust.io
+zdf-cdn.live.cellular.de
+api-settings.zdf.de
+cdn-gl.imrworldwide.com
+abgroup.zdf.de
+android.clients.google.com
+api.zdf.de
+secure-eu.nmrodam.com
 
 
-######################################
-## ENDE
+
+
 ######################################
